@@ -1,5 +1,8 @@
 import java.util.LinkedList;
 
+/**
+ * A class containing the rainfall method which we were instructed to write
+ */
 public class Planning {
 
     public Planning(){}
